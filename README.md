@@ -12,7 +12,8 @@
 - 💬 Ask me about **Flutter and NodeJs API**
 
 - 📫 How to reach me **codeish500@gmail.com**
--- 😄 Pronouns: He/His
+
+- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
