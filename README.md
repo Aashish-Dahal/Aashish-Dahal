@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ashish Dahal(Codeish)</h1>
 <h3 align="center">I'm an enthusiast mobile application developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-dahal&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-dahal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashish-dahal" alt="aashish-dahal" /></a> </p>
-
 - 🔭 I’m currently working on **BazarYatra.**
 
 - 🌱 I’m currently learning **NodeJs,Javascript,Flutter & Dart.**
