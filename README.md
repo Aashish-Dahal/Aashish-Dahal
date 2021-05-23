@@ -1,4 +1,4 @@
-Hi there 👋, I'm Ashish Dahal(Codeish)</h1>
+<h1 align="center">Hi there 👋, I'm Ashish Dahal(Codeish)</h1>
 <h3 align="center">I'm an enthusiast mobile application developer from Nepal</h3>
 
 - 🔭 I’m currently working on **BazarYatra.**
