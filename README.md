@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="Ashish Dahal" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/0ef3a693eae15e40c18cb18892caf8b58afae789b64b7d35c488e58f2e5e0100/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d696d746865706b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f696d746865706b2f" alt="Linkedin: Ashish Dahal" data-canonical-src="https://img.shields.io/badge/-Ashish Dahal-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ashish-dahal-868677143/" style="max-width:100%;">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
