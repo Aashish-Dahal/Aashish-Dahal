@@ -1,5 +1,5 @@
 <h1 align="center">नमस्ते, I'm Ashish Dahal(Codeish)</h1>
-<h3 align="center">I'm an enthusiast mobile application developer from Nepal</h3>
+<h3>I'm an enthusiast mobile application developer from Nepal</h3>
 
 - 🔭 I’m currently working on **BazarYatra.**
 
@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Linkedin: Ashish Dahal" href="https://np.linkedin.com/in/ashish-dahal-868677143">
+<a href="https://np.linkedin.com/in/ashish-dahal-868677143" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Ashish Dahal"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
