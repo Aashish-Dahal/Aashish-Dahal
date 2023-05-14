@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Ashish Dahal" href="https://np.linkedin.com/in/ashish-dahal-868677143">
+<img src="" alt="Linkedin: Ashish Dahal" href="https://np.linkedin.com/in/ashish-dahal-868677143">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
