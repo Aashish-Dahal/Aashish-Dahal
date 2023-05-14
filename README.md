@@ -1,5 +1,5 @@
 <h1 align="center">नमस्ते, I'm Ashish Dahal(Codeish)</h1>
-<h3>I'm an enthusiast mobile application developer from Nepal</h3>
+<h3 align="left">I'm an enthusiast mobile application developer from Nepal</h3>
 
 - 🔭 I’m currently working on **BazarYatra.**
 
