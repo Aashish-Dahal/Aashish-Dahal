@@ -1,15 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Ashish Dahal(Codeish)</h1>
+<h1 align="center">नमस्ते, I'm Ashish Dahal(Codeish)</h1>
 <h3 align="center">I'm an enthusiast mobile application developer from Nepal</h3>
 
 - 🔭 I’m currently working on **BazarYatra.**
 
-- 🌱 I’m currently learning **NodeJs,Javascript,Flutter & Dart.**
+- 🌱 I’m currently learning **Golang,React,Next,NodeJs,Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **Flutter Project.**
-
-- 🤝 I’m looking for help with **NodeJs API**
-
-- 💬 Ask me about **Flutter and NodeJs API**
+- 💬 Ask me about **Golang,React,Next,NodeJs,Flutter and Dart**
 
 - 📫 How to reach me **codeish500@gmail.com**
 
