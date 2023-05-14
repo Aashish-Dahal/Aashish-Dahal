@@ -13,8 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@ashishdahal490)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishdahal490)
+ <a href="https://np.linkedin.com/in/ashish-dahal-868677143" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: Ashish Dahal"/></a>
+ <a href="https://medium.com/@ashishdahal490" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium: Ashish Dahal"/></a>
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
